@@ -1,0 +1,33 @@
+//a
+private void btnResultado_Click(object sender, EventArgs e)
+        {
+            int produto = int.Parse(txtresultado.Text);
+            int resultado;
+            resultado = produto * 12;
+            MessageBox.Show("A quantidade de meses que a pessoa viveu foi:" + resultado);
+
+
+
+        }
+//b 
+private void btnResultado_Click(object sender, EventArgs e)
+        {
+            float produto = float.Parse(txtresultado.Text);
+            float resultado;
+            resultado = produto - (produto * 0.1f);
+            MessageBox.Show("Produto com desconto: " + resultado);
+
+
+
+        }
+//c 
+ private void btnResultado_Click(object sender, EventArgs e)
+        {
+            double produto = double.Parse(txtresultado.Text);
+            double resultado;
+            resultado = Math.Sqrt(produto);
+            MessageBox.Show("A raiz quadrada é: " + resultado);
+
+
+
+        }

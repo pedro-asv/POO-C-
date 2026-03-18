@@ -1,0 +1,16 @@
+H:\h\AppLista03\AppLista03\bin\Debug\AppLista03.exe.config
+H:\h\AppLista03\AppLista03\bin\Debug\AppLista03.exe
+H:\h\AppLista03\AppLista03\bin\Debug\AppLista03.pdb
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.csproj.SuggestedBindingRedirects.cache
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.FrmExercico1.resources
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.Properties.Resources.resources
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.csproj.GenerateResource.cache
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.csproj.CoreCompileInputs.cache
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.exe
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.pdb
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.csproj.AssemblyReference.cache
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.FrmExercico02.resources
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.FrmExercico03.resources
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.FrmExercico04.resources
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.FrmExercico05.resources
+H:\h\AppLista03\AppLista03\obj\Debug\AppLista03.FrmExercico06.resources

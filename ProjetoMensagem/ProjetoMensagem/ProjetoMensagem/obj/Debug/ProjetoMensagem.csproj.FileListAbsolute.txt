@@ -1,0 +1,11 @@
+H:\h\ProjetoMensagem\ProjetoMensagem\bin\Debug\ProjetoMensagem.exe.config
+H:\h\ProjetoMensagem\ProjetoMensagem\bin\Debug\ProjetoMensagem.exe
+H:\h\ProjetoMensagem\ProjetoMensagem\bin\Debug\ProjetoMensagem.pdb
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.csproj.AssemblyReference.cache
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.csproj.SuggestedBindingRedirects.cache
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.Properties.Resources.resources
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.csproj.GenerateResource.cache
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.csproj.CoreCompileInputs.cache
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.exe
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.pdb
+H:\h\ProjetoMensagem\ProjetoMensagem\obj\Debug\ProjetoMensagem.frmDiginhoMensagens.resources

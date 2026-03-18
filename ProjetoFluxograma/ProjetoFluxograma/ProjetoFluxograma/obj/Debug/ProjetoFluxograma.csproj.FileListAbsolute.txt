@@ -1,0 +1,11 @@
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.csproj.AssemblyReference.cache
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.csproj.SuggestedBindingRedirects.cache
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.FrmFluxo.resources
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.Properties.Resources.resources
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.csproj.GenerateResource.cache
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.csproj.CoreCompileInputs.cache
+H:\h\ProjetoFluxograma\ProjetoFluxograma\bin\Debug\ProjetoFluxograma.exe.config
+H:\h\ProjetoFluxograma\ProjetoFluxograma\bin\Debug\ProjetoFluxograma.exe
+H:\h\ProjetoFluxograma\ProjetoFluxograma\bin\Debug\ProjetoFluxograma.pdb
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.exe
+H:\h\ProjetoFluxograma\ProjetoFluxograma\obj\Debug\ProjetoFluxograma.pdb
