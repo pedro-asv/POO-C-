@@ -1,0 +1,11 @@
+## Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+[Dd]ebug/
+[Rr]elease/
+.vs/
